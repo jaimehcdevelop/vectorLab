@@ -1,0 +1,15 @@
+[package]
+name = "vectorlab"
+version = "0.1.0"
+edition = "2024"
+authors = ["Jaime Herrera Casado, jaimehcdeveloper  @gmail.com"]
+description = "Semantic Search & Vector Database Benchmarking Suite in Rust"
+
+[dependencies]
+anyhow = "1.0.104"
+qdrant-client = "1.19.0"
+tracing = "0.1.44"
+tracing-subscriber = "0.3.23"
+tokio = "1.53.2"
+serde = { version = "1.0.229", features = ["derive"] }
+serde_json = "1.0.151"

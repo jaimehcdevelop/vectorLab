@@ -1,0 +1,14 @@
+[
+  {
+    "id": "doc_1",
+    "content": "La Universidad de Sevilla es una institución pública de educación superior. Su Escuela Técnica Superior de Ingeniería Informática se encuentra en el campus de Reina Mercedes. En ella se imparten grados, másteres y programas de doctorado."
+  },
+  {
+    "id": "doc_2",
+    "content": "Rust es un lenguaje de programación de sistemas que enfatiza la seguridad, el rendimiento y la concurrencia segura. No utiliza un recolector de basura, sino un sistema de propiedad y préstamos para gestionar la memoria."
+  },
+  {
+    "id": "doc_3",
+    "content": "Las bases de datos vectoriales almacenan representaciones matemáticas de datos llamadas embeddings. Qdrant es un motor de búsqueda vectorial de alto rendimiento escrito en Rust, ideal para construir aplicaciones de inteligencia artificial y sistemas RAG."
+  }
+]
