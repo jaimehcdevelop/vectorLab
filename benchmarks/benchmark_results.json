@@ -1,0 +1,41 @@
+[
+  {
+    "query": "Which object-oriented language was created for systemic applications?",
+    "top_k": 5,
+    "iterations": 100,
+    "recall_at_k": 1.0,
+    "latency": {
+      "min_ms": 1.8117,
+      "max_ms": 5.1551,
+      "p50_ms": 2.2992,
+      "p95_ms": 2.9215,
+      "mean_ms": 2.316554
+    }
+  },
+  {
+    "query": "Functional programming languages running on Java Virtual Machine",
+    "top_k": 5,
+    "iterations": 100,
+    "recall_at_k": 1.0,
+    "latency": {
+      "min_ms": 1.7052,
+      "max_ms": 2.9411,
+      "p50_ms": 2.0395,
+      "p95_ms": 2.4846999999999997,
+      "mean_ms": 2.059801
+    }
+  },
+  {
+    "query": "High-performance systems language with memory safety without garbage collector",
+    "top_k": 5,
+    "iterations": 100,
+    "recall_at_k": 1.0,
+    "latency": {
+      "min_ms": 1.5695999999999999,
+      "max_ms": 11.3826,
+      "p50_ms": 1.9476,
+      "p95_ms": 2.4548,
+      "mean_ms": 2.064621
+    }
+  }
+]
